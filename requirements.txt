@@ -1,0 +1,24 @@
+streamlit
+# Utilitites 
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin
+setuptools<70.0.0
+git+https://github.com/ageitgey/face_recognition_models
+
+supabase
+bcrypt   #hashing method for password decode and checking
+
+
+
+segno
+pillow
+
+
+
+librosa
+resemblyzer
+flask

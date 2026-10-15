@@ -1,0 +1,16 @@
+.env
+.vscode
+
+.pyc
+__pycache__/
+venv/
+venv310/
+venv312/
+venv*/
+*.dat
+*.bin
+.streamlit/
+streamlit/
+
+dist/
+
